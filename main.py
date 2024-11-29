@@ -1,4 +1,3 @@
-from django.template.context_processors import request
 import json
 from car.models import Car
 from car.serializers import CarSerializer
